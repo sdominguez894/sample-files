@@ -1,0 +1,65 @@
+{ "changelog":[
+   {
+      "projecte": "OT",
+      "cap_projecte": "R.O.",
+      "desenvolupador": "A.M.",
+      "projecte_svn": "Transit_responsive_Formatters",
+      "modul": "cat.vass.wcmResponsive.formatters.transit",
+      "revisio_svn": "123456",
+      "comentaris": "No ha de pujar a producció"
+   },
+   {
+      "projecte": "OT",
+      "cap_projecte": "R.O.",
+      "desenvolupador": "P.S",
+      "projecte_svn": "Transit_Services",
+      "modul": "cat.vass.wcmResponsive.services.transit",
+      "revisio_svn": "123457",
+      "comentaris": []
+   },
+   {
+      "projecte": "Quaire",
+      "cap_projecte": "I.H.",
+      "desenvolupador": "I.F.",
+      "projecte_svn": "Fwk_externalServices_responsive_Formatters",
+      "modul": "cat.vass.wcmResponsive.formatters.taulaDadesQuaire",
+      "revisio_svn": "123458",
+      "comentaris": "Detingut a DES, Pendent validació"
+   },
+   {
+      "projecte": "OT",
+      "cap_projecte": "R.O.",
+      "desenvolupador": "S.D.",
+      "projecte_svn": "Fwk_visor_responsive_Formatter",
+      "modul": "cat.vass.wcmResponsive.formatters.visor",
+      "revisio_svn": "123459",
+      "comentaris": []
+   },
+   {
+      "projecte": "EvolutiusFWK",
+      "cap_projecte": "O.G.",
+      "desenvolupador": "A.A.",
+      "projecte_svn": "Fwk_fitxer_contenttype",
+      "modul": "cat.vass.wcm.contentype.fitxer",
+      "revisio_svn": "1234560",
+      "comentaris": []
+   },
+   {
+      "projecte": "Tramits",
+      "cap_projecte": "R.O.",
+      "desenvolupador": "N.B.",
+      "projecte_svn": "Fwk_tramit_responsive_formatters",
+      "modul": "cat.vass.wcmResponsive.formatters.tramit",
+      "revisio_svn": "123451",
+      "comentaris": []
+   },
+   {
+      "projecte": "Accio",
+      "cap_projecte": "A.B.",
+      "desenvolupador": "C.C.",
+      "projecte_svn": "Accio",
+      "modul": "cat.vass.accio.plantillaIntegracio",
+      "revisio_svn": "1223458",
+      "comentaris": "14/08/1992"
+   }]
+}

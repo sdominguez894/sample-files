@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<release_notes>
+	<changelog>
+		<projecte>OT</projecte>
+		<cap_projecte>R.O.</cap_projecte>
+		<desenvolupador>A.M.</desenvolupador>
+		<projecte_svn>Transit_responsive_Formatters</projecte_svn>
+		<modul>cat.vass.wcmResponsive.formatters.transit</modul>
+		<revisio_svn>123456</revisio_svn>
+		<comentaris>No ha de pujar a producció</comentaris>
+	</changelog>
+	<changelog>
+		<projecte>OT</projecte>
+		<cap_projecte>R.O.</cap_projecte>
+		<desenvolupador>P.S</desenvolupador>
+		<projecte_svn>Transit_Services</projecte_svn>
+		<modul>cat.vass.wcmResponsive.services.transit</modul>
+		<revisio_svn>123457</revisio_svn>
+		<comentaris></comentaris>
+	</changelog>
+	<changelog>
+		<projecte>Quaire</projecte>
+		<cap_projecte>I.H.</cap_projecte>
+		<desenvolupador>I.F.</desenvolupador>
+		<projecte_svn>Fwk_externalServices_responsive_Formatters</projecte_svn>
+		<modul>cat.vass.wcmResponsive.formatters.taulaDadesQuaire</modul>
+		<revisio_svn>123458</revisio_svn>
+		<comentaris>Detingut a DES, Pendent validació</comentaris>
+	</changelog>
+	<changelog>
+		<projecte>OT</projecte>
+		<cap_projecte>R.O.</cap_projecte>
+		<desenvolupador>S.D.</desenvolupador>
+		<projecte_svn>Fwk_visor_responsive_Formatter</projecte_svn>
+		<modul>cat.vass.wcmResponsive.formatters.visor</modul>
+		<revisio_svn>123459</revisio_svn>
+		<comentaris></comentaris>
+	</changelog>
+	<changelog>
+		<projecte>EvolutiusFWK</projecte>
+		<cap_projecte>O.G.</cap_projecte>
+		<desenvolupador>A.A.</desenvolupador>
+		<projecte_svn>Fwk_fitxer_contenttype</projecte_svn>
+		<modul>cat.vass.wcm.contentype.fitxer</modul>
+		<revisio_svn>1234560</revisio_svn>
+		<comentaris></comentaris>
+	</changelog>
+	<changelog>
+		<projecte>Tramits</projecte>
+		<cap_projecte>R.O.</cap_projecte>
+		<desenvolupador>N.B.</desenvolupador>
+		<projecte_svn>Fwk_tramit_responsive_formatters</projecte_svn>
+		<modul>cat.vass.wcmResponsive.formatters.tramit</modul>
+		<revisio_svn>123451</revisio_svn>
+		<comentaris></comentaris>
+	</changelog>
+	<changelog>
+		<projecte>Accio</projecte>
+		<cap_projecte>A.B.</cap_projecte>
+		<desenvolupador>C.C.</desenvolupador>
+		<projecte_svn>Accio</projecte_svn>
+		<modul>cat.vass.accio.plantillaIntegracio</modul>
+		<revisio_svn>1223458</revisio_svn>
+		<comentaris>14/08/1992</comentaris>
+	</changelog>
+</release_notes>
