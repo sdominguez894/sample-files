@@ -15,7 +15,7 @@
       "projecte_svn": "Transit_Services",
       "modul": "cat.vass.wcmResponsive.services.transit",
       "revisio_svn": "123457",
-      "comentaris": []
+      "comentaris": ""
    },
    {
       "projecte": "Quaire",
@@ -33,7 +33,7 @@
       "projecte_svn": "Fwk_visor_responsive_Formatter",
       "modul": "cat.vass.wcmResponsive.formatters.visor",
       "revisio_svn": "123459",
-      "comentaris": []
+      "comentaris": ""
    },
    {
       "projecte": "EvolutiusFWK",
@@ -42,7 +42,7 @@
       "projecte_svn": "Fwk_fitxer_contenttype",
       "modul": "cat.vass.wcm.contentype.fitxer",
       "revisio_svn": "1234560",
-      "comentaris": []
+      "comentaris": ""
    },
    {
       "projecte": "Tramits",
@@ -51,7 +51,7 @@
       "projecte_svn": "Fwk_tramit_responsive_formatters",
       "modul": "cat.vass.wcmResponsive.formatters.tramit",
       "revisio_svn": "123451",
-      "comentaris": []
+      "comentaris": ""
    },
    {
       "projecte": "Accio",
