@@ -1,0 +1,30 @@
+[
+  {
+    "data": "2020-07-26T00:00:00.000",
+    "regiosanitariacodi": "6400",
+    "regiosanitariadescripcio": "Girona",
+    "edatrang": "80-89",
+    "sexecodi": "1",
+    "sexedescripcio": "Dona",
+    "resultatcoviddescripcio": "Sospitós",
+    "numcasos": "1"
+  },
+  {
+    "data": "2020-07-26T00:00:00.000",
+    "edatrang": "0-9",
+    "sexecodi": "1",
+    "sexedescripcio": "Dona",
+    "resultatcoviddescripcio": "Sospitós",
+    "numcasos": "1"
+  },
+  {
+    "data": "2020-07-26T00:00:00.000",
+    "regiosanitariacodi": "6100",
+    "regiosanitariadescripcio": "Lleida",
+    "edatrang": "30-39",
+    "sexecodi": "1",
+    "sexedescripcio": "Dona",
+    "resultatcoviddescripcio": "Sospitós",
+    "numcasos": "1"
+  }
+]
